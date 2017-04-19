@@ -1,0 +1,347 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\src\dlib-19.4\dlib\all\source.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\dlib-19.4\dlib\external\libjpeg\jcapimin.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\dlib-19.4\dlib\external\libjpeg\jcapistd.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\dlib-19.4\dlib\external\libjpeg\jccoefct.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\dlib-19.4\dlib\external\libjpeg\jccolor.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\dlib-19.4\dlib\external\libjpeg\jcdctmgr.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\dlib-19.4\dlib\external\libjpeg\jchuff.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\dlib-19.4\dlib\external\libjpeg\jcinit.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\dlib-19.4\dlib\external\libjpeg\jcmainct.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\dlib-19.4\dlib\external\libjpeg\jcmarker.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\dlib-19.4\dlib\external\libjpeg\jcmaster.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\dlib-19.4\dlib\external\libjpeg\jcomapi.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\dlib-19.4\dlib\external\libjpeg\jcparam.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\dlib-19.4\dlib\external\libjpeg\jcphuff.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\dlib-19.4\dlib\external\libjpeg\jcprepct.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\dlib-19.4\dlib\external\libjpeg\jcsample.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\dlib-19.4\dlib\external\libjpeg\jdapimin.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\dlib-19.4\dlib\external\libjpeg\jdapistd.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\dlib-19.4\dlib\external\libjpeg\jdatadst.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\dlib-19.4\dlib\external\libjpeg\jdatasrc.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\dlib-19.4\dlib\external\libjpeg\jdcoefct.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\dlib-19.4\dlib\external\libjpeg\jdcolor.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\dlib-19.4\dlib\external\libjpeg\jddctmgr.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\dlib-19.4\dlib\external\libjpeg\jdhuff.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\dlib-19.4\dlib\external\libjpeg\jdinput.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\dlib-19.4\dlib\external\libjpeg\jdmainct.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\dlib-19.4\dlib\external\libjpeg\jdmarker.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\dlib-19.4\dlib\external\libjpeg\jdmaster.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\dlib-19.4\dlib\external\libjpeg\jdmerge.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\dlib-19.4\dlib\external\libjpeg\jdphuff.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\dlib-19.4\dlib\external\libjpeg\jdpostct.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\dlib-19.4\dlib\external\libjpeg\jdsample.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\dlib-19.4\dlib\external\libjpeg\jerror.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\dlib-19.4\dlib\external\libjpeg\jfdctflt.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\dlib-19.4\dlib\external\libjpeg\jfdctfst.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\dlib-19.4\dlib\external\libjpeg\jfdctint.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\dlib-19.4\dlib\external\libjpeg\jidctflt.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\dlib-19.4\dlib\external\libjpeg\jidctfst.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\dlib-19.4\dlib\external\libjpeg\jidctint.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\dlib-19.4\dlib\external\libjpeg\jidctred.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\dlib-19.4\dlib\external\libjpeg\jmemmgr.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\dlib-19.4\dlib\external\libjpeg\jmemnobs.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\dlib-19.4\dlib\external\libjpeg\jquant1.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\dlib-19.4\dlib\external\libjpeg\jquant2.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\dlib-19.4\dlib\external\libjpeg\jutils.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\dlib-19.4\dlib\external\libpng\png.c">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\dlib-19.4\dlib\external\libpng\pngerror.c">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\dlib-19.4\dlib\external\libpng\pngget.c">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\dlib-19.4\dlib\external\libpng\pngmem.c">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\dlib-19.4\dlib\external\libpng\pngpread.c">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\dlib-19.4\dlib\external\libpng\pngread.c">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\dlib-19.4\dlib\external\libpng\pngrio.c">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\dlib-19.4\dlib\external\libpng\pngrtran.c">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\dlib-19.4\dlib\external\libpng\pngrutil.c">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\dlib-19.4\dlib\external\libpng\pngset.c">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\dlib-19.4\dlib\external\libpng\pngtrans.c">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\dlib-19.4\dlib\external\libpng\pngwio.c">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\dlib-19.4\dlib\external\libpng\pngwrite.c">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\dlib-19.4\dlib\external\libpng\pngwtran.c">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\dlib-19.4\dlib\external\libpng\pngwutil.c">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\dlib-19.4\dlib\external\zlib\adler32.c">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\dlib-19.4\dlib\external\zlib\compress.c">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\dlib-19.4\dlib\external\zlib\crc32.c">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\dlib-19.4\dlib\external\zlib\deflate.c">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\dlib-19.4\dlib\external\zlib\gzclose.c">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\dlib-19.4\dlib\external\zlib\gzlib.c">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\dlib-19.4\dlib\external\zlib\gzread.c">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\dlib-19.4\dlib\external\zlib\gzwrite.c">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\dlib-19.4\dlib\external\zlib\infback.c">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\dlib-19.4\dlib\external\zlib\inffast.c">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\dlib-19.4\dlib\external\zlib\inflate.c">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\dlib-19.4\dlib\external\zlib\inftrees.c">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\dlib-19.4\dlib\external\zlib\trees.c">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\dlib-19.4\dlib\external\zlib\uncompr.c">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\dlib-19.4\dlib\external\zlib\zutil.c">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\src\dlib-19.4\dlib\external\libjpeg\jchuff.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\dlib-19.4\dlib\external\libjpeg\jconfig.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\dlib-19.4\dlib\external\libjpeg\jdct.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\dlib-19.4\dlib\external\libjpeg\jdhuff.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\dlib-19.4\dlib\external\libjpeg\jerror.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\dlib-19.4\dlib\external\libjpeg\jinclude.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\dlib-19.4\dlib\external\libjpeg\jmemsys.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\dlib-19.4\dlib\external\libjpeg\jmorecfg.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\dlib-19.4\dlib\external\libjpeg\jpegint.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\dlib-19.4\dlib\external\libjpeg\jpeglib.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\dlib-19.4\dlib\external\libjpeg\jversion.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\dlib-19.4\dlib\external\libpng\png.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\dlib-19.4\dlib\external\libpng\pngconf.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\dlib-19.4\dlib\external\libpng\pngdebug.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\dlib-19.4\dlib\external\libpng\pnginfo.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\dlib-19.4\dlib\external\libpng\pnglibconf.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\dlib-19.4\dlib\external\libpng\pngpriv.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\dlib-19.4\dlib\external\libpng\pngstruct.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\dlib-19.4\dlib\external\zlib\crc32.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\dlib-19.4\dlib\external\zlib\deflate.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\dlib-19.4\dlib\external\zlib\gzguts.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\dlib-19.4\dlib\external\zlib\inffast.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\dlib-19.4\dlib\external\zlib\inffixed.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\dlib-19.4\dlib\external\zlib\inflate.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\dlib-19.4\dlib\external\zlib\inftrees.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\dlib-19.4\dlib\external\zlib\trees.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\dlib-19.4\dlib\external\zlib\zconf.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\dlib-19.4\dlib\external\zlib\zlib.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\dlib-19.4\dlib\external\zlib\zutil.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\src\dlib-19.4\dlib\external\libjpeg\README">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\src\dlib-19.4\dlib\external\libpng\LICENSE">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\src\dlib-19.4\dlib\external\libpng\README">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\src\dlib-19.4\dlib\external\zlib\README">
+      <Filter>资源文件</Filter>
+    </None>
+  </ItemGroup>
+</Project>

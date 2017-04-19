@@ -1,0 +1,74 @@
+﻿  face_detection.cpp
+e:\dlibface\src\dlib-19.4\dlib\image_transforms/morphological_operations.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  正在生成代码
+  All 8358 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+dlib19.4.lib(source.obj) : warning LNK4099: 未找到 PDB“SourceBuild.pdb”(使用“dlib19.4.lib(source.obj)”或在“E:\DlibFace\x64\Release\SourceBuild.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+dlib19.4.lib(pngwrite.obj) : warning LNK4099: 未找到 PDB“SourceBuild.pdb”(使用“dlib19.4.lib(pngwrite.obj)”或在“E:\DlibFace\x64\Release\SourceBuild.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+dlib19.4.lib(jdapimin.obj) : warning LNK4099: 未找到 PDB“SourceBuild.pdb”(使用“dlib19.4.lib(jdapimin.obj)”或在“E:\DlibFace\x64\Release\SourceBuild.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+dlib19.4.lib(pngerror.obj) : warning LNK4099: 未找到 PDB“SourceBuild.pdb”(使用“dlib19.4.lib(pngerror.obj)”或在“E:\DlibFace\x64\Release\SourceBuild.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+dlib19.4.lib(jdapistd.obj) : warning LNK4099: 未找到 PDB“SourceBuild.pdb”(使用“dlib19.4.lib(jdapistd.obj)”或在“E:\DlibFace\x64\Release\SourceBuild.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+dlib19.4.lib(jcparam.obj) : warning LNK4099: 未找到 PDB“SourceBuild.pdb”(使用“dlib19.4.lib(jcparam.obj)”或在“E:\DlibFace\x64\Release\SourceBuild.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+dlib19.4.lib(png.obj) : warning LNK4099: 未找到 PDB“SourceBuild.pdb”(使用“dlib19.4.lib(png.obj)”或在“E:\DlibFace\x64\Release\SourceBuild.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+dlib19.4.lib(pngread.obj) : warning LNK4099: 未找到 PDB“SourceBuild.pdb”(使用“dlib19.4.lib(pngread.obj)”或在“E:\DlibFace\x64\Release\SourceBuild.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+dlib19.4.lib(jcapimin.obj) : warning LNK4099: 未找到 PDB“SourceBuild.pdb”(使用“dlib19.4.lib(jcapimin.obj)”或在“E:\DlibFace\x64\Release\SourceBuild.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+dlib19.4.lib(pngget.obj) : warning LNK4099: 未找到 PDB“SourceBuild.pdb”(使用“dlib19.4.lib(pngget.obj)”或在“E:\DlibFace\x64\Release\SourceBuild.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+dlib19.4.lib(pngrtran.obj) : warning LNK4099: 未找到 PDB“SourceBuild.pdb”(使用“dlib19.4.lib(pngrtran.obj)”或在“E:\DlibFace\x64\Release\SourceBuild.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+dlib19.4.lib(jdatasrc.obj) : warning LNK4099: 未找到 PDB“SourceBuild.pdb”(使用“dlib19.4.lib(jdatasrc.obj)”或在“E:\DlibFace\x64\Release\SourceBuild.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+dlib19.4.lib(pngset.obj) : warning LNK4099: 未找到 PDB“SourceBuild.pdb”(使用“dlib19.4.lib(pngset.obj)”或在“E:\DlibFace\x64\Release\SourceBuild.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+dlib19.4.lib(jerror.obj) : warning LNK4099: 未找到 PDB“SourceBuild.pdb”(使用“dlib19.4.lib(jerror.obj)”或在“E:\DlibFace\x64\Release\SourceBuild.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+dlib19.4.lib(jdatadst.obj) : warning LNK4099: 未找到 PDB“SourceBuild.pdb”(使用“dlib19.4.lib(jdatadst.obj)”或在“E:\DlibFace\x64\Release\SourceBuild.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+dlib19.4.lib(jcapistd.obj) : warning LNK4099: 未找到 PDB“SourceBuild.pdb”(使用“dlib19.4.lib(jcapistd.obj)”或在“E:\DlibFace\x64\Release\SourceBuild.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+dlib19.4.lib(pngmem.obj) : warning LNK4099: 未找到 PDB“SourceBuild.pdb”(使用“dlib19.4.lib(pngmem.obj)”或在“E:\DlibFace\x64\Release\SourceBuild.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+dlib19.4.lib(pngtrans.obj) : warning LNK4099: 未找到 PDB“SourceBuild.pdb”(使用“dlib19.4.lib(pngtrans.obj)”或在“E:\DlibFace\x64\Release\SourceBuild.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+dlib19.4.lib(pngwutil.obj) : warning LNK4099: 未找到 PDB“SourceBuild.pdb”(使用“dlib19.4.lib(pngwutil.obj)”或在“E:\DlibFace\x64\Release\SourceBuild.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+dlib19.4.lib(pngwtran.obj) : warning LNK4099: 未找到 PDB“SourceBuild.pdb”(使用“dlib19.4.lib(pngwtran.obj)”或在“E:\DlibFace\x64\Release\SourceBuild.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+dlib19.4.lib(pngwio.obj) : warning LNK4099: 未找到 PDB“SourceBuild.pdb”(使用“dlib19.4.lib(pngwio.obj)”或在“E:\DlibFace\x64\Release\SourceBuild.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+dlib19.4.lib(deflate.obj) : warning LNK4099: 未找到 PDB“SourceBuild.pdb”(使用“dlib19.4.lib(deflate.obj)”或在“E:\DlibFace\x64\Release\SourceBuild.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+dlib19.4.lib(jmemmgr.obj) : warning LNK4099: 未找到 PDB“SourceBuild.pdb”(使用“dlib19.4.lib(jmemmgr.obj)”或在“E:\DlibFace\x64\Release\SourceBuild.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+dlib19.4.lib(jdmarker.obj) : warning LNK4099: 未找到 PDB“SourceBuild.pdb”(使用“dlib19.4.lib(jdmarker.obj)”或在“E:\DlibFace\x64\Release\SourceBuild.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+dlib19.4.lib(jcomapi.obj) : warning LNK4099: 未找到 PDB“SourceBuild.pdb”(使用“dlib19.4.lib(jcomapi.obj)”或在“E:\DlibFace\x64\Release\SourceBuild.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+dlib19.4.lib(jdinput.obj) : warning LNK4099: 未找到 PDB“SourceBuild.pdb”(使用“dlib19.4.lib(jdinput.obj)”或在“E:\DlibFace\x64\Release\SourceBuild.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+dlib19.4.lib(jdmaster.obj) : warning LNK4099: 未找到 PDB“SourceBuild.pdb”(使用“dlib19.4.lib(jdmaster.obj)”或在“E:\DlibFace\x64\Release\SourceBuild.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+dlib19.4.lib(adler32.obj) : warning LNK4099: 未找到 PDB“SourceBuild.pdb”(使用“dlib19.4.lib(adler32.obj)”或在“E:\DlibFace\x64\Release\SourceBuild.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+dlib19.4.lib(inflate.obj) : warning LNK4099: 未找到 PDB“SourceBuild.pdb”(使用“dlib19.4.lib(inflate.obj)”或在“E:\DlibFace\x64\Release\SourceBuild.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+dlib19.4.lib(crc32.obj) : warning LNK4099: 未找到 PDB“SourceBuild.pdb”(使用“dlib19.4.lib(crc32.obj)”或在“E:\DlibFace\x64\Release\SourceBuild.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+dlib19.4.lib(pngrutil.obj) : warning LNK4099: 未找到 PDB“SourceBuild.pdb”(使用“dlib19.4.lib(pngrutil.obj)”或在“E:\DlibFace\x64\Release\SourceBuild.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+dlib19.4.lib(pngrio.obj) : warning LNK4099: 未找到 PDB“SourceBuild.pdb”(使用“dlib19.4.lib(pngrio.obj)”或在“E:\DlibFace\x64\Release\SourceBuild.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+dlib19.4.lib(jcmarker.obj) : warning LNK4099: 未找到 PDB“SourceBuild.pdb”(使用“dlib19.4.lib(jcmarker.obj)”或在“E:\DlibFace\x64\Release\SourceBuild.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+dlib19.4.lib(jcinit.obj) : warning LNK4099: 未找到 PDB“SourceBuild.pdb”(使用“dlib19.4.lib(jcinit.obj)”或在“E:\DlibFace\x64\Release\SourceBuild.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+dlib19.4.lib(trees.obj) : warning LNK4099: 未找到 PDB“SourceBuild.pdb”(使用“dlib19.4.lib(trees.obj)”或在“E:\DlibFace\x64\Release\SourceBuild.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+dlib19.4.lib(zutil.obj) : warning LNK4099: 未找到 PDB“SourceBuild.pdb”(使用“dlib19.4.lib(zutil.obj)”或在“E:\DlibFace\x64\Release\SourceBuild.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+dlib19.4.lib(jmemnobs.obj) : warning LNK4099: 未找到 PDB“SourceBuild.pdb”(使用“dlib19.4.lib(jmemnobs.obj)”或在“E:\DlibFace\x64\Release\SourceBuild.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+dlib19.4.lib(jutils.obj) : warning LNK4099: 未找到 PDB“SourceBuild.pdb”(使用“dlib19.4.lib(jutils.obj)”或在“E:\DlibFace\x64\Release\SourceBuild.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+dlib19.4.lib(jquant1.obj) : warning LNK4099: 未找到 PDB“SourceBuild.pdb”(使用“dlib19.4.lib(jquant1.obj)”或在“E:\DlibFace\x64\Release\SourceBuild.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+dlib19.4.lib(jdmerge.obj) : warning LNK4099: 未找到 PDB“SourceBuild.pdb”(使用“dlib19.4.lib(jdmerge.obj)”或在“E:\DlibFace\x64\Release\SourceBuild.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+dlib19.4.lib(jdsample.obj) : warning LNK4099: 未找到 PDB“SourceBuild.pdb”(使用“dlib19.4.lib(jdsample.obj)”或在“E:\DlibFace\x64\Release\SourceBuild.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+dlib19.4.lib(jdphuff.obj) : warning LNK4099: 未找到 PDB“SourceBuild.pdb”(使用“dlib19.4.lib(jdphuff.obj)”或在“E:\DlibFace\x64\Release\SourceBuild.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+dlib19.4.lib(jdhuff.obj) : warning LNK4099: 未找到 PDB“SourceBuild.pdb”(使用“dlib19.4.lib(jdhuff.obj)”或在“E:\DlibFace\x64\Release\SourceBuild.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+dlib19.4.lib(jquant2.obj) : warning LNK4099: 未找到 PDB“SourceBuild.pdb”(使用“dlib19.4.lib(jquant2.obj)”或在“E:\DlibFace\x64\Release\SourceBuild.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+dlib19.4.lib(jdcoefct.obj) : warning LNK4099: 未找到 PDB“SourceBuild.pdb”(使用“dlib19.4.lib(jdcoefct.obj)”或在“E:\DlibFace\x64\Release\SourceBuild.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+dlib19.4.lib(jdcolor.obj) : warning LNK4099: 未找到 PDB“SourceBuild.pdb”(使用“dlib19.4.lib(jdcolor.obj)”或在“E:\DlibFace\x64\Release\SourceBuild.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+dlib19.4.lib(jdmainct.obj) : warning LNK4099: 未找到 PDB“SourceBuild.pdb”(使用“dlib19.4.lib(jdmainct.obj)”或在“E:\DlibFace\x64\Release\SourceBuild.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+dlib19.4.lib(jddctmgr.obj) : warning LNK4099: 未找到 PDB“SourceBuild.pdb”(使用“dlib19.4.lib(jddctmgr.obj)”或在“E:\DlibFace\x64\Release\SourceBuild.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+dlib19.4.lib(jdpostct.obj) : warning LNK4099: 未找到 PDB“SourceBuild.pdb”(使用“dlib19.4.lib(jdpostct.obj)”或在“E:\DlibFace\x64\Release\SourceBuild.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+dlib19.4.lib(inftrees.obj) : warning LNK4099: 未找到 PDB“SourceBuild.pdb”(使用“dlib19.4.lib(inftrees.obj)”或在“E:\DlibFace\x64\Release\SourceBuild.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+dlib19.4.lib(inffast.obj) : warning LNK4099: 未找到 PDB“SourceBuild.pdb”(使用“dlib19.4.lib(inffast.obj)”或在“E:\DlibFace\x64\Release\SourceBuild.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+dlib19.4.lib(jcprepct.obj) : warning LNK4099: 未找到 PDB“SourceBuild.pdb”(使用“dlib19.4.lib(jcprepct.obj)”或在“E:\DlibFace\x64\Release\SourceBuild.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+dlib19.4.lib(jcsample.obj) : warning LNK4099: 未找到 PDB“SourceBuild.pdb”(使用“dlib19.4.lib(jcsample.obj)”或在“E:\DlibFace\x64\Release\SourceBuild.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+dlib19.4.lib(jcmainct.obj) : warning LNK4099: 未找到 PDB“SourceBuild.pdb”(使用“dlib19.4.lib(jcmainct.obj)”或在“E:\DlibFace\x64\Release\SourceBuild.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+dlib19.4.lib(jcmaster.obj) : warning LNK4099: 未找到 PDB“SourceBuild.pdb”(使用“dlib19.4.lib(jcmaster.obj)”或在“E:\DlibFace\x64\Release\SourceBuild.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+dlib19.4.lib(jccoefct.obj) : warning LNK4099: 未找到 PDB“SourceBuild.pdb”(使用“dlib19.4.lib(jccoefct.obj)”或在“E:\DlibFace\x64\Release\SourceBuild.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+dlib19.4.lib(jccolor.obj) : warning LNK4099: 未找到 PDB“SourceBuild.pdb”(使用“dlib19.4.lib(jccolor.obj)”或在“E:\DlibFace\x64\Release\SourceBuild.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+dlib19.4.lib(jcphuff.obj) : warning LNK4099: 未找到 PDB“SourceBuild.pdb”(使用“dlib19.4.lib(jcphuff.obj)”或在“E:\DlibFace\x64\Release\SourceBuild.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+dlib19.4.lib(jchuff.obj) : warning LNK4099: 未找到 PDB“SourceBuild.pdb”(使用“dlib19.4.lib(jchuff.obj)”或在“E:\DlibFace\x64\Release\SourceBuild.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+dlib19.4.lib(jcdctmgr.obj) : warning LNK4099: 未找到 PDB“SourceBuild.pdb”(使用“dlib19.4.lib(jcdctmgr.obj)”或在“E:\DlibFace\x64\Release\SourceBuild.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+dlib19.4.lib(jidctred.obj) : warning LNK4099: 未找到 PDB“SourceBuild.pdb”(使用“dlib19.4.lib(jidctred.obj)”或在“E:\DlibFace\x64\Release\SourceBuild.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+dlib19.4.lib(jidctfst.obj) : warning LNK4099: 未找到 PDB“SourceBuild.pdb”(使用“dlib19.4.lib(jidctfst.obj)”或在“E:\DlibFace\x64\Release\SourceBuild.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+dlib19.4.lib(jidctflt.obj) : warning LNK4099: 未找到 PDB“SourceBuild.pdb”(使用“dlib19.4.lib(jidctflt.obj)”或在“E:\DlibFace\x64\Release\SourceBuild.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+dlib19.4.lib(jidctint.obj) : warning LNK4099: 未找到 PDB“SourceBuild.pdb”(使用“dlib19.4.lib(jidctint.obj)”或在“E:\DlibFace\x64\Release\SourceBuild.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+dlib19.4.lib(jfdctfst.obj) : warning LNK4099: 未找到 PDB“SourceBuild.pdb”(使用“dlib19.4.lib(jfdctfst.obj)”或在“E:\DlibFace\x64\Release\SourceBuild.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+dlib19.4.lib(jfdctflt.obj) : warning LNK4099: 未找到 PDB“SourceBuild.pdb”(使用“dlib19.4.lib(jfdctflt.obj)”或在“E:\DlibFace\x64\Release\SourceBuild.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+dlib19.4.lib(jfdctint.obj) : warning LNK4099: 未找到 PDB“SourceBuild.pdb”(使用“dlib19.4.lib(jfdctint.obj)”或在“E:\DlibFace\x64\Release\SourceBuild.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  faceDetection.vcxproj -> E:\DlibFace\x64\Release\faceDetection.exe
+  faceDetection.vcxproj -> E:\DlibFace\x64\Release\faceDetection.pdb (Full PDB)

@@ -1,0 +1,6 @@
+自己去官网下载
+dlib_face_recognition_resnet_model_v1.dat
+和
+shape_predictor_68_face_landmarks.dat
+
+放在此文件夹下

@@ -27,3 +27,11 @@
 *.exe
 *.out
 *.app
+
+# 自己加入的
+*.db
+*.pdb
+*.ipdb
+*/dlib-19.4
+*.iobj
+*.dat
