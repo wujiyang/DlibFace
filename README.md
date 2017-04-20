@@ -1,5 +1,5 @@
 ## DlibFace
-face detection， face alignment and face detection based on dlib library
+**face detection， face alignment and face recognition based on dlib library**
 
 ## DlibFace Solution   
 包括四个项目，由于本次项目中含有人脸识别，所以必须要下载dlib-19.3及其以上版本，而且还要使用VS2015编译才行    
