@@ -6,8 +6,8 @@
 本次实验我下载的是当前最新dlib19.4   
 
 之前的版本使用方法，可以参考：  
-[Windows10+VS2013环境下Dlib库的编译与使用](http://blog.csdn.net/u013078356/article/details/54999491)  
-[使用Dlib库进行人脸检测与对齐](http://blog.csdn.net/u013078356/article/details/54999592) 
+[Windows10+VS2013环境下Dlib库的编译与使用-邬小阳](http://blog.csdn.net/u013078356/article/details/54999491)  
+[使用Dlib库进行人脸检测与对齐-邬小阳](http://blog.csdn.net/u013078356/article/details/54999592) 
 
 **images文件夹为一些测试图片**   
 **models文件夹为下载好的人脸对齐模型和人脸识别模型，具体链接在各个项目的测试代码中都有**  
